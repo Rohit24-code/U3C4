@@ -1,0 +1,17 @@
+#navbar{
+    border: 2px solid black;
+   display: flex;
+   padding: 10px;
+   justify-content: space-around;
+}
+#navbar input{
+    width: 80%;
+    border-radius: 12px;
+}
+#sidebar{
+    width: 10%;
+}
+.news{
+    margin-top: -15%;
+    margin-left: 15%;
+}
